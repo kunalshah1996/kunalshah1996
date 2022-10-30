@@ -63,8 +63,3 @@
 <a href = "https://www.linkedin.com/in/kunalshah25/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-</a>
-<a href="https://github.com/kunalshah1996?tab=followers"><img src="https://img.shields.io/github/followers/kunalshah1996?label=Followers&style=social" alt="GitHub Badge"></a>
