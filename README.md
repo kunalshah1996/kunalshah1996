@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 I currently work for UIC LMS Team building accessible Tools and Pages using React, MySQL and Node.js
+- 💼 I currently work for UIC LMS Team building accessible Tools and Pages using **React, MySQL and Node.js**
 
 - 🌱 I’m currently improving my **Full stack** skills
 
