@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
+- 💼 I currently work for UIC LMS Team building accessible Tools and Pages using React, MySQL and Node.js
 
 - 🌱 I’m currently improving my **Full stack** skills
 
-- :handshake: I’m looking to collaborate on **any Projects**
-
+- 🤝 I’m looking to collaborate on **any Projects**
 
 - 📫 How to reach me **kunalshah1996@gmail.com**
 
