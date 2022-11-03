@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently improving my **Full stack** skills
 
-- 👯 I’m looking to collaborate on **any Projects**
+- :handshake: I’m looking to collaborate on **any Projects**
 
 
 - 📫 How to reach me **kunalshah1996@gmail.com**
