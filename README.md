@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Kunal</h1>
 <h3 align="center">I'm a passionate Software Engineer and Full Stack Developer</h3>
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
+
 
 ## 🙋‍♂️ About Me
 
@@ -77,19 +79,10 @@
 
   <br/>
 
-
-## 📊 Languages Used
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshah1996)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/kunalshah25/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 </p>
