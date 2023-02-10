@@ -10,7 +10,7 @@
 
 - 💼 I currently work for UIC LMS Team building accessible Tools and Pages using **React, MySQL and Node.js**
 
-- 🌱 I’m currently improving my **Full stack** skills
+- 🌱 I’m currently learning **Angular** and **J2EE**
 
 - 🤝 I’m looking to collaborate on **any Projects**
 
