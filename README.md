@@ -59,7 +59,7 @@
      
 <br/>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/kunalshah1996/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kunal Shah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshah1996&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -68,7 +68,7 @@
 ## 📊 My Github Stats
 <br/>
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalshah1996&count_private=true)
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalshah1996&count_private=true&theme=github_dark)
 
   
 <!--     <a href="https://github.com/kunalshah1996/github-readme-stats"><img alt="Kunal Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kunalshah1996&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
@@ -78,11 +78,11 @@
   <br/>
 
 
-## 📊 My Github Contribution
-<br/>
+## 📊 Languages Used
+
 <br/>
 
-<a href="https://github.com/kunalshah1996/github-readme-activity-graph"><img alt="Kunal Shah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kunalshah1996&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshah1996&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
